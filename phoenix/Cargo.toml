@@ -1,0 +1,9 @@
+[package]
+name = "phoenix"
+version = "0.1.0"
+authors = ["Markus H. Roland <markuhr@stud.ntnu.no>"]
+edition = "2018"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
